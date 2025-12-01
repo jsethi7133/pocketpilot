@@ -59,5 +59,3 @@ run_demo.sh
 ## Next steps
 - Bank API integration, OCR receipts, UI/WhatsApp front-end, richer ML models.
 
-## License
-MIT
